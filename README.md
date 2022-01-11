@@ -22,7 +22,7 @@ Once you have completed that process, edit this file (README.md) by pressing the
 Once you have finished editing README.md, press the "Commit Changes" button at the bottom of the page. On the main page for this repository, copy the URL (it should be in the form: https://github.com/[username]/Exercise-01a-Install-Software), and submit that as the URL for the exercise on Canvas.
 
 The final state of this file should be as follows (replacing my information with yours). If you have any problems installing the software, note it at the bottom:
-
+```
 # Exercise 01a: Install Software
 
 ## My name is:
@@ -38,3 +38,4 @@ BL-MSCH-C220-S22
 BL-MSCH-C220-S22
 
 ## I have installed the software on my computer as a part of the exercise
+```
