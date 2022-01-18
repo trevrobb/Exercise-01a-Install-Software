@@ -1,5 +1,4 @@
 
-The final state of this file should be as follows (replacing my information with yours). If you have any problems installing the software, note it at the bottom:
 ```
 # Exercise 01a: Install Software
 
